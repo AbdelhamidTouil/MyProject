@@ -1,0 +1,46 @@
+C:\Users\acer\source\repos\PROGECT\PROGECT\bin\Debug\PROGECT.exe.config
+C:\Users\acer\source\repos\PROGECT\PROGECT\bin\Debug\PROGECT.exe
+C:\Users\acer\source\repos\PROGECT\PROGECT\bin\Debug\PROGECT.pdb
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.Form1.resources
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.Form2.resources
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.Properties.Resources.resources
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.exe
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.pdb
+C:\Users\acer\source\repos\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_client.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\bin\Debug\PROGECT.exe.config
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\bin\Debug\PROGECT.exe
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\bin\Debug\PROGECT.pdb
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_client.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Properties.Resources.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.exe
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.pdb
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_product.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_salle.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_user.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Login.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.MENU.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Product_management.resources
+C:\Users\acer\Desktop\Nouveau dossier\PROGECT\PROGECT\obj\Debug\PROGECT.Client_management.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\bin\Debug\PROGECT.exe.config
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\bin\Debug\PROGECT.exe
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\bin\Debug\PROGECT.pdb
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_client.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_product.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_salle.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Add_a_new_user.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Client_management.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Login.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.MENU.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Product_management.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.Properties.Resources.resources
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.exe
+C:\Users\acer\Desktop\progect ado.net\PROGECT\PROGECT\obj\Debug\PROGECT.pdb
